@@ -2,7 +2,7 @@
 
 ### I'm a high school student passionate about data science and machine learning
 
-* I'm currently in my first year of Junior College at the **St. Joseph's Institution, Singapore**
+* I'm currently in my first year of Junior College at **St. Joseph's Institution, Singapore**
 * I find joy in programming and working on **data analysis** and **machine learning** projects
 * I also enjoy **canoeing** and **weightlifting** as hobbies
 * I'm always passionate to learn more about the world of data
