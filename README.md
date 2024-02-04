@@ -1,6 +1,6 @@
 # Hey, I'm Brayden 👋
 
-### I'm a high school student passionate about data science and machine learning
+### I'm a high school student with a deep passion for anything to do with Data Science
 
 * I'm currently in my first year of Junior College at **St. Joseph's Institution, Singapore**
 * I find joy in programming and working on **data analysis** and **machine learning** projects
