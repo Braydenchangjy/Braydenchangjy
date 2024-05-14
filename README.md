@@ -4,7 +4,7 @@
 
 * I'm currently in my first year of Junior College at **St. Joseph's Institution, Singapore**
 * I find joy in programming, working on, and teaching **data analysis** and **machine learning** 
-* I also enjoy **canoeing** and **going to the gym** as hobbies
+* I also dabble abit in sports, primarily **canoeing** and **going to the gym**, as well as social entrepeneurship and social advocacy.
 * I'm always passionate to learn more about the world of data
 * Feel free to reach me at **braydenchangjy@gmail.com**
 
